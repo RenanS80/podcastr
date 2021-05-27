@@ -3,9 +3,9 @@
 </h1>
 
 ## 📃 Sobre
-Este projeto foi desenvolvido durante o evento NLW 5 realizado pela <a href="https://rocketseat.com.br/">Rocketseat</a> e consiste em uma plataforma para transmissão de podcast sobre tecnologia. <br>
+Este projeto foi desenvolvido durante o evento NLW 5 realizado pela <a href="https://rocketseat.com.br/" target="_blank">Rocketseat</a> e consiste em uma plataforma para transmissão de podcast sobre tecnologia. <br>
 Ele foi realizado com base na seguinte prototipação:
-https://www.figma.com/file/UwFEntsHpHYJlHNQAQr4gA/Podcastr
+<a href="https://www.figma.com/file/UwFEntsHpHYJlHNQAQr4gA/Podcastr" target="_blank">https://www.figma.com/file/UwFEntsHpHYJlHNQAQr4gA/Podcastr</a>
 
 
 ## 💻 Tecnologias utilizadas
@@ -31,7 +31,7 @@ https://www.figma.com/file/UwFEntsHpHYJlHNQAQr4gA/Podcastr
 ---
 ## 📁 Como baixar o projeto
 <p>
-Pré-requisito: instalar o <a href="https://nodejs.org/en/">Node.js</a> e o <a href="https://yarnpkg.com/">Yarn</a>. 
+Pré-requisito: instalar o <a href="https://nodejs.org/en/" target="_blank">Node.js</a> e o <a href="https://yarnpkg.com/" target="_blank">Yarn</a>. 
 </p><br>
 
 ```bash
